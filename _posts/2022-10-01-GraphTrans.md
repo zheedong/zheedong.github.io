@@ -1,3 +1,10 @@
+---
+title:  "Representing Long-Range Context for Graph Neural Networks with Global Attention"
+date: 2022-10-01
+categories: ['일반']
+tags: ['블로그', 'jekyll', 'github', 'github.io']
+---
+
 # Representing Long-Range Context for Graph Neural Networks with Global Attention
 
 [Representing Long-Range Context for Graph Neural Networks with Global Attention](https://arxiv.org/abs/2201.08821)
