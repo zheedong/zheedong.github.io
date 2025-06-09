@@ -92,7 +92,3 @@ _Regular Member_ (2019.03 – 2020.02)
 - **Languages:** Python, PyTorch, PyTorch Lightning  
 - **Engineering:** Distributed Learning, Large Scale Training  
 - **English Proficiency:** TOEIC 905
-
----
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
