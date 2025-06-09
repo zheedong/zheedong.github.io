@@ -2,123 +2,107 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Donghwan Chi
 
-[Link to another page](./another-page.html).
-[Link to another page](./_posts/2022-10-01-GraphTrans.html).
+Seoul, Republic of Korea  
+📧 [zheedong@korea.ac.kr](mailto:zheedong@korea.ac.kr)  
+📞 +82 010 6317 6021  
+GitHub: [zheedong](https://github.com/zheedong)
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## 🧠 Interests
 
-# Header 1
+AGI, Multimodal Large Language Model, Generative Model, Reinforcement Learning, Efficient AI
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+---
 
-## Header 2
+## 🎓 Education
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+**MS in Artificial Intelligence, Korea University**  
+_2025.03 – Present_  
+- GPA: 4.5/4.5  
+- Coursework: Advanced Machine Learning, Meta Learning  
 
-### Header 3
+**BS in Computer Science and Engineering, Korea University**  
+_2019.03 – 2025.02_  
+- GPA: 4.11/4.5  
+- Coursework: AI, ML, DL, NLP, CV, Information Theory, Convex Optimization  
+- Leave of absence: 2021.01 – 2023.01 (Military Service, ROK Air Force)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+---
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## 📄 Publications
 
-#### Header 4
+- **Slot-MLLM: Object-Centric Visual Tokenization for Multimodal LLM**, May 2025  
+  *(First Author)*  
+  Introduced Slot Q-Former to enhance multimodal LLMs in visual understanding and generation tasks.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- **Object-centric Self-improving Preference Optimization for Text-to-Image Generation**, May 2025  
+  Proposed OSPO to reduce object-level hallucinations in T2I models.
 
-##### Header 5
+---
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## 🔬 Research Experience
 
-###### Header 6
+**AGI Lab, Korea University**  
+_Undergraduate Intern_  
+2023.09 – Present  
+- Led project and co-authored paper on multimodal LLM  
+- Set up and managed lab server infrastructure  
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+**Machine Learning & Vision Lab, Korea University**  
+_Undergraduate Intern_  
+2022.09 – 2023.08  
+- Researched graph learning in the context of AGI  
+- Conducted project related to graph structures
 
-### There's a horizontal rule below this.
+---
 
-* * *
+## 💼 Projects
 
-### Here is an unordered list:
+**Family Portrait: Multi-ID Face Synthesis**  
+_2024.12_  
+- Built generative model with latent diffusion  
+- Developed working demo for multi-face image synthesis
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+**Canary: Military Security Alert System**  
+_2021.10_  
+- Built object detection system for military equipment  
+- Curated training/test dataset
 
-### And an ordered list:
+---
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+## 👨‍🏫 Activities
 
-### And a nested list:
+**Artificial Intelligence Korea University (AIKU)**  
+_1st Senior Member_ (2023.01 – 2024.01)  
+- Led technical and academic team  
+- Designed hackathon problems and diffusion model projects  
+- Taught AI intro course to new members
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+**Korea University Institute of Computer Security**  
+_Regular Member_ (2019.03 – 2020.02)  
+- Participated in system hacking study
 
-### Small image
+---
+
+## 🏅 Honors & Awards
+
+- Excellence Award, Capstone Design Competition, 2024  
+- Academic Excellence Scholarship, 2024  
+- Special Scholarship by Student Affairs Office, 2023–2024  
+- OSAM Hackathon Navy Award, 2021  
+- High Honors (4 semesters)
+
+---
+
+## 💻 Skills
+
+- **Languages:** Python, PyTorch, PyTorch Lightning  
+- **Engineering:** Distributed Learning, Large Scale Training  
+- **English Proficiency:** TOEIC 905
+
+---
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
