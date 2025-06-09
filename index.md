@@ -3,6 +3,13 @@ layout: default
 
 ---
 
+## 📑 About Me
+
+- [Curriculum Vitae (PDF)](/assets/documents/Donghwan_Chi_Resume.pdf)
+- [Research Statement (PDF)](/assets/documents/Donghwan_Chi_Research_Statement.pdf)
+
+---
+
 ## 🧠 Interests
 
 AGI, Multimodal Large Language Model, Generative Model, Reinforcement Learning, Efficient AI
