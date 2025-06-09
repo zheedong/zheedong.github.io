@@ -1,13 +1,5 @@
 ---
 layout: default
----
-
-# Donghwan Chi
-
-Seoul, Republic of Korea  
-📧 [zheedong@korea.ac.kr](mailto:zheedong@korea.ac.kr)  
-📞 +82 010 6317 6021  
-GitHub: [zheedong](https://github.com/zheedong)
 
 ---
 
@@ -21,32 +13,30 @@ AGI, Multimodal Large Language Model, Generative Model, Reinforcement Learning, 
 
 **MS in Artificial Intelligence, Korea University**  
 _2025.03 – Present_  
-- GPA: 4.5/4.5  
-- Coursework: Advanced Machine Learning, Meta Learning  
 
 **BS in Computer Science and Engineering, Korea University**  
 _2019.03 – 2025.02_  
-- GPA: 4.11/4.5  
-- Coursework: AI, ML, DL, NLP, CV, Information Theory, Convex Optimization  
-- Leave of absence: 2021.01 – 2023.01 (Military Service, ROK Air Force)
 
 ---
 
 ## 📄 Publications
 
-- **Slot-MLLM: Object-Centric Visual Tokenization for Multimodal LLM**, May 2025  
-  *(First Author)*  
-  Introduced Slot Q-Former to enhance multimodal LLMs in visual understanding and generation tasks.
+- **[Slot-MLLM: Object-Centric Visual Tokenization for Multimodal LLM](https://arxiv.org/abs/2505.17726)**  
+  *Donghwan Chi\*, Hyomin Kim\*, Yoonjin Oh, Yongjin Kim, Donghoon Lee, Daejin Jo, Jongmin Kim, Junyeob Baek, Sungjin Ahn, Sungwoong Kim*  
+  _May 2025_  
+  Introduced Slot Q-Former to enhance multimodal LLMs in object-centric visual understanding, generation, and editing tasks.
 
-- **Object-centric Self-improving Preference Optimization for Text-to-Image Generation**, May 2025  
-  Proposed OSPO to reduce object-level hallucinations in T2I models.
+- **[Object-centric Self-improving Preference Optimization for Text-to-Image Generation](https://arxiv.org/abs/2506.02015)**  
+  *Yoonjin Oh, Yongjin Kim, Hyomin Kim, Donghwan Chi, Sungwoong Kim*  
+  _May 2025_  
+  Proposed the OSPO framework to mitigate object-level hallucinations in text-to-image generation models.
 
 ---
 
 ## 🔬 Research Experience
 
 **AGI Lab, Korea University**  
-_Undergraduate Intern_  
+_Undergraduate Intern, Master Student_  
 2023.09 – Present  
 - Led project and co-authored paper on multimodal LLM  
 - Set up and managed lab server infrastructure  
