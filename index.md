@@ -12,7 +12,7 @@ layout: default
 
 ## 🧠 Interests
 
-AGI, Multimodal Large Language Model, Generative Model, Reinforcement Learning, Efficient AI
+Artificial General Intelligence, Multimodal Large Language Models, Vision-Language-Speech Generation, Object-Centric Representation Learning, Text-to-Image Generation, Multimodal Alignment
 
 ---
 
@@ -20,9 +20,12 @@ AGI, Multimodal Large Language Model, Generative Model, Reinforcement Learning, 
 
 **MS in Artificial Intelligence, Korea University**  
 _2025.03 – Present_  
+GPA: 4.44 / 4.5  
 
 **BS in Computer Science and Engineering, Korea University**  
 _2019.03 – 2025.02_  
+GPA: 4.11 / 4.5  
+Leave of absence for mandatory military service, Republic of Korea Air Force (2021.01 – 2023.01)  
 
 ---
 
@@ -30,72 +33,60 @@ _2019.03 – 2025.02_
 
 - **[Slot-MLLM: Object-Centric Visual Tokenization for Multimodal LLM](https://arxiv.org/abs/2505.17726)**  
   *Donghwan Chi\*, Hyomin Kim\*, Yoonjin Oh, Yongjin Kim, Donghoon Lee, Daejin Jo, Jongmin Kim, Junyeob Baek, Sungjin Ahn, Sungwoong Kim*  
-  _May 2025_  
+  _Submitted to IEEE Transactions on Multimedia_  
   Introduced Slot Q-Former to enhance multimodal LLMs in object-centric visual understanding, generation, and editing tasks.
 
 - **[Object-centric Self-improving Preference Optimization for Text-to-Image Generation](https://arxiv.org/abs/2506.02015)**  
   *Yoonjin Oh, Yongjin Kim, Hyomin Kim, Donghwan Chi, Sungwoong Kim*  
-  _May 2025_  
+  _Accepted to CVPR 2026_  
   Proposed the OSPO framework to mitigate object-level hallucinations in text-to-image generation models.
 
 ---
 
 ## 🔬 Research Experience
 
+**WAVLab, Carnegie Mellon University**  
+_Visiting Collaborator (Advisor: Prof. Shinji Watanabe)_  
+2025.10 – Present  
+- Conducting research on vision-speech-language omni-modal models for unified multimodal understanding and generation  
+- Developing alignment-preserving training methods to extend large vision-language models with discrete speech tokenizers for ITS2ITS omni-modal understanding and generation across image, text, and speech  
+
 **AGI Lab, Korea University**  
-_Undergraduate Intern, Master Student_  
+_Graduate Researcher / Undergraduate Intern (Advisor: Prof. Sungwoong Kim and Prof. Sungbin Lim)_  
 2023.09 – Present  
-- Led project and co-authored paper on multimodal LLM  
-- Set up and managed lab server infrastructure  
-
-**Machine Learning & Vision Lab, Korea University**  
-_Undergraduate Intern_  
-2022.09 – 2023.08  
-- Researched graph learning in the context of AGI  
-- Conducted project related to graph structures
-
----
-
-## 💼 Projects
-
-**Family Portrait: Multi-ID Face Synthesis**  
-_2024.12_  
-- Built generative model with latent diffusion  
-- Developed working demo for multi-face image synthesis
-
-**Canary: Military Security Alert System**  
-_2021.10_  
-- Built object detection system for military equipment  
-- Curated training/test dataset
+- Led research on object-centric visual tokenization for multimodal large language models, resulting in Slot-MLLM  
+- Designed a Slot Q-Former-based visual tokenizer to improve object-level grounding, generation, and editing  
+- Conducted large-scale multimodal training on image-text and interleaved datasets using multi-GPU distributed training  
+- Evaluated object-centric reasoning and generation on benchmarks including spatial relation understanding, text-to-image generation, and image editing  
+- Managed lab GPU servers and supported large-scale training infrastructure  
 
 ---
 
 ## 👨‍🏫 Activities
 
 **Artificial Intelligence Korea University (AIKU)**  
-_1st Senior Member_ (2023.01 – 2024.01)  
-- Led technical and academic team  
-- Designed hackathon problems and diffusion model projects  
-- Taught AI intro course to new members
-
-**Korea University Institute of Computer Security**  
-_Regular Member_ (2019.03 – 2020.02)  
-- Participated in system hacking study
+_First Cohort Senior Member, Technical & Academic Management Team_ (2023.01 – 2024.01)  
+- Managed the club's servers, ensuring reliable and efficient operation  
+- Served as a committee member for multiple hackathon question designs  
+- Conducted and participated in a project related to diffusion models  
+- Organized and taught introductory courses for new members  
 
 ---
 
 ## 🏅 Honors & Awards
 
-- Excellence Award, Capstone Design Competition, 2024  
-- Academic Excellence Scholarship, 2024  
-- Special Scholarship by Student Affairs Office, 2023–2024  
-- OSAM Hackathon Navy Award, 2021  
-- High Honors (4 semesters)
+- Chief of Naval Operations Award, Republic of Korea Navy, Open Source Academy Military (OSAM) Hackathon, 2021  
+- Excellence Award, Capstone Design Competition, Korea University, Fall 2024  
+- Academic Excellence Scholarship, Korea University, Spring 2024  
+- Special Scholarship by Student Affairs Office, Korea University, Fall 2023 & Spring 2024  
+- Semester High Honors, Korea University, 2019, 2020, 2023, 2024  
 
 ---
 
 ## 💻 Skills
 
-- **Languages:** Python, PyTorch, PyTorch Lightning  
-- **Engineering:** Distributed Learning, Large Scale Training  
-- **English Proficiency:** TOEIC 905
+- **Languages:** Python, Bash, LaTeX  
+- **ML Frameworks:** PyTorch, PyTorch Lightning, Hugging Face Transformers  
+- **ML Systems:** Distributed Training, Multi-GPU Training, Mixed Precision Training, DeepSpeed, Weights & Biases  
+- **Research Areas:** Multimodal LLMs, Vision-Language Models, Diffusion Models, Speech Tokenization  
+- **Language Proficiency:** TOEIC 905  
