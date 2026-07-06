@@ -20,7 +20,7 @@ Artificial General Intelligence, Multimodal Large Language Models, Vision-Langua
 
 **MS in Artificial Intelligence, Korea University**  
 _2025.03 – Present_  
-GPA: 4.44 / 4.5  
+GPA: 4.5 / 4.5  
 
 **BS in Computer Science and Engineering, Korea University**  
 _2019.03 – 2025.02_  
