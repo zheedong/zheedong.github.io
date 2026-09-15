@@ -32,7 +32,7 @@ Leave of absence for mandatory military service, Republic of Korea Air Force (20
 ## 📄 Publications
 
 - **[Slot-MLLM: Object-Centric Visual Tokenization for Multimodal LLM](https://arxiv.org/abs/2505.17726)**  
-  *Donghwan Chi\*, Hyomin Kim\*, Yoonjin Oh, Yongjin Kim, Donghoon Lee, Daejin Jo, Jongmin Kim, Junyeob Baek, Sungjin Ahn, Sungwoong Kim*  
+  *Donghwan Chi\*, Hyomin Kim, Yoonjin Oh, Yongjin Kim, Donghoon Lee, Daejin Jo, Jongmin Kim, Junyeob Baek, Sungjin Ahn, Sungwoong Kim*  
   _Submitted to IEEE Transactions on Multimedia_  
   Introduced Slot Q-Former to enhance multimodal LLMs in object-centric visual understanding, generation, and editing tasks.
 
