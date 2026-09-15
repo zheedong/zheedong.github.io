@@ -89,4 +89,4 @@ _First Cohort Senior Member, Technical & Academic Management Team_ (2023.01 – 
 - **ML Frameworks:** PyTorch, PyTorch Lightning, Hugging Face Transformers  
 - **ML Systems:** Distributed Training, Multi-GPU Training, Mixed Precision Training, DeepSpeed, Weights & Biases  
 - **Research Areas:** Multimodal LLMs, Vision-Language Models, Diffusion Models, Speech Tokenization  
-- **Language Proficiency:** TOEIC 905  
+- **Language Proficiency:** TOEFL 100 (5.0)  
